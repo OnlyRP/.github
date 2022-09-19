@@ -15,7 +15,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Our Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
@@ -42,12 +42,12 @@
 
 
 
-</td></tr></table>  
+</tr></table>  
 
 <br/>  
 
 
-## Connect with me  
+## Connect with us  
 <div align="center">
 <a href="https://github.com/OnlyRP" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
