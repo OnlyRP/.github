@@ -9,7 +9,7 @@
 - 🔭 Currently working on FiveM based server.  
   
 
-- 🔭 Previously know's as "High Reality RP" on SA:MP Multiplayer Modification. (2014-2017)  
+- 🔭 Previously known as "High Reality RP" on SA:MP Multiplayer Modification. (2014-2017)  
   
 
 <br/>  
